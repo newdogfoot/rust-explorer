@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>Rust Explorer</string>
+<key>CFBundleDisplayName</key><string>Rust Explorer</string>
+<key>CFBundleIdentifier</key><string>local.rust-explorer.app</string>
+<key>CFBundleVersion</key><string>16</string>
+<key>CFBundleShortVersionString</key><string>0.7.1</string>
+<key>CFBundleExecutable</key><string>Rust Explorer</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleIconFile</key><string>ExplorerFolder.icns</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSDocumentsFolderUsageDescription</key><string>문서 폴더의 파일을 탐색하고 사용자가 선택한 파일 작업을 수행합니다.</string>
+<key>NSDownloadsFolderUsageDescription</key><string>다운로드한 파일을 탐색하고 정리합니다.</string>
+<key>NSDesktopFolderUsageDescription</key><string>데스크탑의 파일을 탐색하고 정리합니다.</string>
+<key>NSRemovableVolumesUsageDescription</key><string>외장 저장장치의 파일을 탐색하고 복사합니다.</string>
+<key>NSLocalNetworkUsageDescription</key><string>사용자가 지정한 로컬 파일 서버에 연결합니다.</string>
+<key>NSNetworkVolumesUsageDescription</key><string>연결한 서버의 공유 폴더를 탐색하고 사용자가 선택한 파일을 처리합니다.</string>
+<key>NSHumanReadableCopyright</key><string>Rust Explorer</string>
+</dict></plist>

@@ -1,0 +1,29 @@
+.DS_Store
+.tools/
+target/
+dist/
+.test-data/
+*.log
+
+# Local credentials, signing material and databases
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+
+# Python helpers
+__pycache__/
+*.py[cod]
+
+# Internal evidence is never part of a public checkout/export
+/HANDOFF.md
+/docs/reviews/
+/docs/validation/
+**/private-rules*.json
